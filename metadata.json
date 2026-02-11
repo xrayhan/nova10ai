@@ -1,0 +1,7 @@
+{
+  "name": "Nova AI - Messenger Edition",
+  "description": "A high-end, Messenger-styled AI chatbot with a secure 18+ restricted mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
